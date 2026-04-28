@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs3eWNocHpxZmtmaWdma29oNmtpbDRmbWExbDB5Z2R4dXpmbm8yaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sushan Tharuka</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;Full-Stack+Developer;Bridging+Data+Insights+%26+Web+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sushan-tharuka" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sushan LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sushan-tharuka-00a496311/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sushan LinkedIn" /></a>
   <a href="mailto:tharukasusa2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Sushan Email" /></a>
   <a href="https://susa000.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -18,35 +22,63 @@
 ### 👨‍💻 About Me
 - 🎓 **Education:** 3rd Year Data Science Undergraduate at SLIIT.
 - 🚀 **Mission:** Building scalable full-stack applications with a focus on data-driven decision making.
-- 🛠️ **Current Projects:** Working on **Eventrix** (MERN Rental System) and **Camplanka**.
+- 📫 How to reach me **tharukasusa2023@gmail.com**
 - 💡 **Interests:** Machine Learning, Modern UI/UX, and Mobile Development.
+- ⚡ **Fun fact:** Call me **SuSa**!
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,matlab,mysql,mongodb&theme=dark" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express&theme=dark" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,c,cpp,php,spring,git,github,figma,postman&theme=dark" />
+  </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSA000&layout=compact&theme=radical&hide_border=true" alt="top languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSA000&show_icons=true&theme=radical&hide_border=true" alt="stats" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSA000&theme=radical&hide_border=true" alt="streak" width="95%"/>
+</p>
+
+---
+
+<h3 align="left">Let's Connect:</h3>
+
+<p align="left">
+  <a href="mailto:tharukasusa2023@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sushan-tharuka-00a496311/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
+  </a>
+  <a href="https://www.facebook.com/sushan.tharuka" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="35"/>
+  </a>
+  <a href="https://instagram.com/sushantharuka/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="35"/>
+  </a>
+  <a href="https://susa000.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" width="35"/>
+  </a>
+</p>
+
+---
+
+
+
+
+---
+⭐ Crafted with ❤️ by [Sushan Tharuka](https://github.com/SUSA000)
