@@ -45,8 +45,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSA000&layout=compact&theme=radical&hide_border=true" alt="top languages" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSA000&show_icons=true&theme=radical&hide_border=true" alt="stats" width="49%"/>
+  <!-- Notice the &v=1 at the very end of the links below! -->
+  <img src="https://my-github-stats-two-plum.vercel.app/api/top-langs/?username=SUSA000&layout=compact&theme=radical&hide_border=true&v=1" alt="top languages" width="45%"/>
+  <img src="https://my-github-stats-two-plum.vercel.app/api?username=SUSA000&show_icons=true&theme=radical&hide_border=true&v=1" alt="stats" width="49%"/>
 </p>
 
 <p align="center">
