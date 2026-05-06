@@ -13,8 +13,8 @@
   <a href="https://susa000.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=susa000&label=Profile%20views&color=0e75b6&style=flat-square" alt="susa000" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSA000&theme=radical&hide_border=true&v=3" alt="streak" width="95%"/>
 </p>
 
 ---
